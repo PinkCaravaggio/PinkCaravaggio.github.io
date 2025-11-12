@@ -36,8 +36,9 @@ function export_to_html(file_name, content_type){
  *
  * @param content
  * @param properties
+ * @param content_type
  */
-function render_html_from_template(content, properties){
+function render_html_from_template(content, properties, content_type){
     const page = ejs.render(fs.readFileSync(publish_template_file, "utf8"), {
         title: properties.title,
         description: properties.description,
@@ -46,6 +47,7 @@ function render_html_from_template(content, properties){
         date: format_date(properties.date),
         topic: properties.topic,
         content: content,
+        type: capitalize_first_letter(content_type.name)
     })
     const publish_path = path.join(root, "docs", properties.link, "index.html");
     fs.mkdirSync(path.dirname(publish_path), { recursive: true });
@@ -68,6 +70,15 @@ function format_date(iso_string) {
             day % 10 === 2 && day !== 12 ? 'nd' :
                 day % 10 === 3 && day !== 13 ? 'rd' : 'th';
     return `${day}${suffix} ${month}, ${year}`;
+}
+
+/**
+ * @param word 
+ * @return {string}
+ */
+function capitalize_first_letter(word) {
+  if (!word) return "";
+  return word.charAt(0).toUpperCase() + word.slice(1);
 }
 
 module.exports = {

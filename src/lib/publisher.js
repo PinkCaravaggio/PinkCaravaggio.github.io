@@ -16,7 +16,7 @@ function publish(file_name, content_type) {
     sanitizer.sanitize_site_info(content_type)
     if (content_type.allow_publish) {
         let html = html_generator.export_to_html(property.file_name, content_type);
-        html_generator.render_html_from_template(html, property)
+        html_generator.render_html_from_template(html, property, content_type)
         sanitizer.sanitize_publish(content_type)
     }
 }
@@ -27,7 +27,7 @@ function publish_all(content_type) {
         const items = site_info.items;
         for (let item of items) {
             let html = html_generator.export_to_html(item.file_name, content_type);
-            html_generator.render_html_from_template(html, item)
+            html_generator.render_html_from_template(html, item, content_type)
         }
         sanitizer.sanitize_publish(content_type)
     }

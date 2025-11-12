@@ -26,7 +26,7 @@
     <link rel="stylesheet" type="text/css" href="../../assets/css/post.css"/>
     <script src="../../assets/js/base.js" defer></script>
     <script src="../../assets/js/post.js" defer></script>
-    <title>Blog | <%- title %></title>
+    <title><%- type %> | <%- title %></title>
 </head>
 <body>
 <nav class="nav-bar" id="nav-bar">
@@ -63,12 +63,14 @@
                 <input type="text" name="lastname" placeholder="Last Name (Optional)" id="lastname">
             </div>
             <input type="email" name="email" placeholder="Email (Optional)" id="email">
+            <input type="text" name="" placeholder="<%- type %> | <%- title %>" id="source" hidden>
             <textarea name="message" placeholder="Message" required id="message"></textarea>
             <button type="submit">SUBMIT</button>
             <label for="firstname" hidden></label>
             <label for="lastname" hidden></label>
             <label for="email" hidden></label>
             <label for="message" hidden></label>
+            <label for="source" hidden></label>
         </form>
     </div>
 </main>
