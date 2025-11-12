@@ -1,1 +1,0 @@
-node "src/lib/cmd.js" "$@"
