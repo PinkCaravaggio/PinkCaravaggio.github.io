@@ -1,0 +1,77 @@
+/**
+ * @filename html-generator.js
+ * @summary This library contains functions that will generate html for the markdown contents
+ * @version 1.0
+ * @author  Linyun Liu, https://linyunliu.com
+ * @updated 2025-11-01
+ */
+
+ const fs = require('fs');
+const matter = require('gray-matter');
+const path = require('path');
+const { marked } = require('marked');
+const ejs =  require('ejs')
+const { publish_template_file, base_url, content_type} = require('./config');
+const root = path.resolve(__dirname, '..', '..');
+
+/**
+ * provide a file name and content type, this function will look for the markdown file
+ * and convert it into raw html contents
+ *
+ * @param {string} file_name    - markdown file name
+ * @param {object} content_type - content type of the markdown file
+ * @return {string | Promise<string>}
+ */
+function export_to_html(file_name, content_type){
+    const markdown = fs.readFileSync(path.join(content_type.content_folder, file_name), 'utf-8');
+    const content = matter(markdown).content;
+    return marked(content);
+}
+
+
+/**
+ * provide the converted html content from markdown and markdown meta,
+ * this function will utilize ejs to render the final index html page and
+ * out it in the folder for publish
+ *
+ * @param content
+ * @param properties
+ */
+function render_html_from_template(content, properties){
+    const page = ejs.render(fs.readFileSync(publish_template_file, "utf8"), {
+        title: properties.title,
+        description: properties.description,
+        author: properties.author,
+        keywords: properties.keywords,
+        date: format_date(properties.date),
+        topic: properties.topic,
+        base_url: base_url,
+        content: content,
+    })
+    const publish_path = path.join(root, "docs", properties.link, "index.html");
+    fs.mkdirSync(path.dirname(publish_path), { recursive: true });
+    fs.writeFileSync(publish_path, page, "utf-8");
+}
+
+/**
+ * Convert am ISO8601 string into DDth MM, YYYY format
+ *
+ * @param iso_string
+ * @return {string}
+ */
+function format_date(iso_string) {
+    const date = new Date(iso_string);
+    const day = date.getDate();
+    const month = date.toLocaleString('en', { month: 'long' });
+    const year = date.getFullYear();
+    const suffix =
+        day % 10 === 1 && day !== 11 ? 'st' :
+            day % 10 === 2 && day !== 12 ? 'nd' :
+                day % 10 === 3 && day !== 13 ? 'rd' : 'th';
+    return `${day}${suffix} ${month}, ${year}`;
+}
+
+module.exports = {
+    render_html_from_template,
+    export_to_html,
+}

@@ -1,0 +1,98 @@
+div.section-1{
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px dashed var(--dark);
+    padding: 10px;
+    margin-top: 50px;
+}
+div.modes{
+    display: flex;
+    flex-direction: row;
+    border-radius: 5px;
+    gap: 10px;
+    width: 100%;
+}
+div.modes button{
+    cursor: pointer;
+    background-color: var(--light);
+    border: 1px solid var(--dark);
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: var(--dark);
+    width: 100px;
+    font-family: "Fjalla One", sans-serif;
+    transition: 0.2s all ease-in-out;
+}
+div.modes button.active{
+    background-color: var(--dark);
+    color: var(--light);
+}
+div.modes button:hover{
+    background-color: var(--dark);
+    color: var(--light);
+}
+div.gallery-grid{
+    display: none;
+    columns: 3 300px;
+    column-gap: 10px;
+    width: 100%;
+    transition: all .25s ease-in-out;
+}
+div.gallery-grid div{
+    width: 100%;
+    overflow: hidden;
+    border-radius: 5px;
+    break-inside: avoid; /* prevents awkward splits between columns */
+    margin-bottom: 10px; /* this creates vertical gap */
+    position: relative;
+}
+div.gallery-grid div a, div.card a{
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    display: none;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Fjalla One', sans-serif;
+    font-size: clamp(24px, 2vw, 40px);
+    padding: 5px 10px;
+    z-index: 2; /* bring it above the image */
+    transition: 0.2s opacity ease-in-out;
+    color: var(--light);
+}
+div.gallery-grid img{
+    display: block;
+    width: 100%;
+    transition: 0.2s all ease-in-out;
+}
+div.gallery-grid div:hover img {
+    filter: brightness(0.6);
+    transform: scale(1.02);
+}
+div.card:hover img{
+    filter: brightness(0.6);
+}
+div.gallery-grid div:hover a {
+    display: block;
+    opacity: 1;
+}
+div.card:hover a{
+    display: block;
+    opacity: 1;
+}
+div.gallery-carousel{
+    display: none;
+    position: relative;
+    width: 100%;
+}
+@media (max-width: 600px) {
+    div.carousel-items{
+        aspect-ratio: 3 / 5;
+    }
+}
