@@ -1,12 +1,12 @@
 ---
-title: Title
-description: Description
+title:
+description:
 cover: https://letongchen.art/cdn/images/default_cover.jpg
 author: Letong Chen
 keywords:
   - art
 topic: Art
-link: auto
+link:
 publish: true
 date:
 ---

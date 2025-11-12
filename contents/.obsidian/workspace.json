@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1076a86ac7c67882",
+        "id": "6d959828fcef5996",
         "type": "tabs",
         "children": [
           {
-            "id": "2eb77fc09615cd11",
+            "id": "7d7f4e5d1473f3b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "ann/This is another announcement.md",
-                "mode": "source",
-                "source": false
+                "file": "Gallery.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "This is another announcement"
+              "icon": "lucide-layout-grid",
+              "title": "Gallery"
             }
           }
         ]
@@ -138,17 +137,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "2eb77fc09615cd11",
+  "active": "7d7f4e5d1473f3b8",
   "lastOpenFiles": [
+    "gallery/Artwork Three.md",
+    "gallery/Artwork Two.md",
+    "gallery/Artwork One.md",
+    "Gallery.base",
+    "Essay.base",
+    "Blog.base",
     "Ann.base",
+    "templates/Template.md",
     "ann/This is another announcement.md",
     "blog/My Thoughts On Vincient.md",
-    "Essay.base",
     "Blog 1 1 1.base",
-    "Gallery.base",
-    "Blog.base",
     "ann/Portfolio Website Launching.md",
-    "templates/Template.md",
     "README.md",
     "blog/Convert an Image into Colourful Ascii Art.md",
     "gallery/Alcyonite.md",
