@@ -1,16 +1,13 @@
 ---
 title: Title
 description: Description
-cover: assets/imgs/blog-cover-1.jpg
-author: Linyun Liu
+cover: https://letongchen.art/cdn/images/default_cover.jpg
+author: Letong Chen
 keywords:
-  - ascii
-  - python
   - art
-topic: Computer Science
+topic: Art
 link: auto
-active: "true"
+publish: true
 date:
 ---
-![image](assets/imgs/blog-cover-1.jpg)
-# Introduction
+# Introduction, Artist Statement, etc.

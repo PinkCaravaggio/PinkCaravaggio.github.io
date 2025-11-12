@@ -47,6 +47,9 @@ function append_link(file_name, properties, content_type){
 function get_file_properties(file_name, content_type){
     const md = fs.readFileSync(path.join(content_type.content_folder, file_name), 'utf-8');
     let properties = matter(md).data
+    if (!properties.title){
+        properties.title = file_name.replace(".md", "")
+    }
     properties = validate(properties)
     properties.file_name = file_name // ! IMPORTANT: append this file name as an id
 
