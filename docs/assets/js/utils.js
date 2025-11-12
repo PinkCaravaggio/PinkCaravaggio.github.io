@@ -14,9 +14,6 @@ const entries = {
 }
 
 async function getJSON(url) {
-    if (isDev){
-        url = `/docs/${url}`
-    }
     try {
         const res = await fetch(url);
         return await res.json();
@@ -35,8 +32,4 @@ function formatDate(isoString) {
             day % 10 === 2 && day !== 12 ? "nd" :
                 day % 10 === 3 && day !== 13 ? "rd" : "th";
     return formatted.replace(/\d+/, `${day}${suffix}`);
-}
-
-function isDev(){
-    return window.origin.includes("localhost")
 }
