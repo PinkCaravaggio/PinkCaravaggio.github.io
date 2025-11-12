@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Ann.base",
+                "file": "Blog.base",
                 "viewName": "Table"
               },
               "icon": "lucide-layout-grid",
-              "title": "Ann"
+              "title": "Blog"
             }
           }
         ]
@@ -137,10 +137,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "2eb77fc09615cd11",
+  "active": "38350a9c8c52be89",
   "lastOpenFiles": [
-    "ann/This is another announcement.md",
+    "blog/My Thoughts On Vincient.md",
+    "Blog.base",
     "Ann.base",
+    "ann/This is another announcement.md",
     "ann/Portfolio Website Launching.md",
     "templates/Template.md",
     "README.md",
