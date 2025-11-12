@@ -11,7 +11,7 @@ const matter = require('gray-matter');
 const path = require('path');
 const { marked } = require('marked');
 const ejs =  require('ejs')
-const { publish_template_file, base_url, content_type} = require('./config');
+const { publish_template_file} = require('./config');
 const root = path.resolve(__dirname, '..', '..');
 
 /**
@@ -45,7 +45,6 @@ function render_html_from_template(content, properties){
         keywords: properties.keywords,
         date: format_date(properties.date),
         topic: properties.topic,
-        base_url: base_url,
         content: content,
     })
     const publish_path = path.join(root, "docs", properties.link, "index.html");
