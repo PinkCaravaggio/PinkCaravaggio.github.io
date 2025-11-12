@@ -11,13 +11,14 @@
             "id": "2eb77fc09615cd11",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Blog.base",
-                "viewName": "Table"
+                "file": "ann/This is another announcement.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Blog"
+              "icon": "lucide-file",
+              "title": "This is another announcement"
             }
           }
         ]
@@ -137,12 +138,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "38350a9c8c52be89",
+  "active": "2eb77fc09615cd11",
   "lastOpenFiles": [
-    "blog/My Thoughts On Vincient.md",
-    "Blog.base",
     "Ann.base",
     "ann/This is another announcement.md",
+    "blog/My Thoughts On Vincient.md",
+    "Essay.base",
+    "Blog 1 1 1.base",
+    "Gallery.base",
+    "Blog.base",
     "ann/Portfolio Website Launching.md",
     "templates/Template.md",
     "README.md",

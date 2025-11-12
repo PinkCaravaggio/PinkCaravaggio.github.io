@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "title": "Title",
-      "description": "Description",
+      "title": "My Thoughts On Vincient",
+      "description": "Do you wanna learn something about Van Goph",
       "cover": "https://letongchen.art/cdn/images/vincient.jpg",
       "author": "Letong Chen",
       "keywords": [
@@ -10,7 +10,7 @@
         "painting"
       ],
       "topic": "Art",
-      "date": "2025-11-12T19:56:47.603Z",
+      "date": "2025-11-12T19:59:47.413Z",
       "publish": true,
       "link": "/blog/my-thoughts-on-vincient",
       "file_name": "My Thoughts On Vincient.md"

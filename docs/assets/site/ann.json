@@ -10,26 +10,12 @@
         "launch"
       ],
       "topic": "Art",
-      "date": "2025-11-12T19:47:26.096Z",
+      "date": "2025-11-12T19:59:42.207Z",
       "publish": true,
       "link": "https://letongchen.art",
       "file_name": "Portfolio Website Launching.md"
-    },
-    {
-      "title": "Hello",
-      "description": "Description",
-      "cover": "https://letongchen.art/cdn/images/davinci.jpg",
-      "author": "Letong Chen",
-      "keywords": [
-        "art"
-      ],
-      "topic": "Art",
-      "date": "2025-11-12T19:47:26.096Z",
-      "publish": true,
-      "link": "https://letongchen.art",
-      "file_name": "This is another announcement.md"
     }
   ],
-  "total": 2,
+  "total": 1,
   "limit_per_page": 10
 }

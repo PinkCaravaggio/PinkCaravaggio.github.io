@@ -1,6 +1,6 @@
 ---
-title: Title
-description: Description
+title: My Thoughts On Vincient
+description: Do you wanna learn something about Van Goph
 cover: https://letongchen.art/cdn/images/vincient.jpg
 author: Letong Chen
 keywords:
