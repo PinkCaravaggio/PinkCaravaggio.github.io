@@ -9,6 +9,7 @@ const help = `
 ${chalk.bold.blue('Usage:')} publish [content-type] [option]
 
 ${chalk.bold('content-type:')}
+  ${chalk.cyan('-ann')}      publish anncoucement content
   ${chalk.cyan('-gallery')}  publish gallery content
   ${chalk.cyan('-blog')}     publish blog content
   ${chalk.cyan('-essay')}    publish essay content
@@ -27,7 +28,8 @@ if (args[0] === '-help' || args[0] === '-h') {
 }
 
 const type_map = {
-    '-gallery': content_type.blog,
+    '-ann': content_type.ann,
+    '-gallery': content_type.gallery,
     '-blog': content_type.blog,
     '-essay': content_type.essay,
 };
