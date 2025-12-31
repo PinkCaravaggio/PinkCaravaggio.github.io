@@ -9,7 +9,7 @@
         "art"
       ],
       "topic": "Art",
-      "date": "2025-11-12T20:39:32.281Z",
+      "date": "2025-12-31T04:33:56.361Z",
       "publish": true,
       "link": "/gallery/artwork-one",
       "file_name": "Artwork One.md"
@@ -23,26 +23,12 @@
         "art"
       ],
       "topic": "Art",
-      "date": "2025-11-12T20:39:32.281Z",
+      "date": "2025-12-31T04:33:56.361Z",
       "publish": true,
       "link": "/gallery/artwork-three",
       "file_name": "Artwork Three.md"
-    },
-    {
-      "title": "Artwork Two",
-      "description": "Letong is demonstrating his art",
-      "cover": "https://letongchen.art/cdn/images/art_2.jpg",
-      "author": "Letong Chen",
-      "keywords": [
-        "art"
-      ],
-      "topic": "Art",
-      "date": "2025-11-12T20:39:32.281Z",
-      "publish": true,
-      "link": "/gallery/artwork-two",
-      "file_name": "Artwork Two.md"
     }
   ],
-  "total": 3,
+  "total": 2,
   "limit_per_page": 10
 }
