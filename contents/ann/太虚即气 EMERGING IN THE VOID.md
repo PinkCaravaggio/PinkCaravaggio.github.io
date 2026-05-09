@@ -9,7 +9,7 @@ keywords:
   - traditional painting
   - experimental art
 topic: Art
-link: https://letongchen.art
+link: https://letongchen.art/gallery/emerging-in-the-void/
 publish: true
 date: 2026-02-25
 ---
