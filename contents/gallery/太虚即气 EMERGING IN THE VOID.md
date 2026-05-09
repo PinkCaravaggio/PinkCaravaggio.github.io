@@ -59,7 +59,7 @@ These “symbols” are non-narrative and non-symbolic (though interpretation is
 I cannot fully explain why the traces (images) I leave behind contain elements from the works of others. Perhaps the “I” exists in a relationally constructive state (Dasein). The appearance of limbs and faces already indicates that “I” exist outside the body; only then can the body appear as a “shadow” and “trance”. As described above, image is merely a trace left by an encounter, not the “I” itself. This de-corporealization and de-identification constitute my resistance to the highly fragmented, privatized, and alienated narratives of the contemporary world, and this resistance itself is non-narrative, non-violent, and does not sacrifice individualism. It is an ontological and phenomenological model.
 
 
-![](https://letongchen.art/cdn/images/eitv_narcissuss.jpg)
+![](https://letongchen.art/cdn/images/eitv_narcissus.jpg)
 
 > ***Narcissus***, acrylic and oil pastel on canvas, 2026. Appropriation of Caravaggio (1571-1610).
 
