@@ -1,34 +1,23 @@
 {
   "items": [
     {
-      "title": "Artwork One",
-      "description": "This is my art!!!",
-      "cover": "https://letongchen.art/cdn/images/art_1.jpg",
+      "title": "太虚即气 EMERGING IN THE VOID",
+      "description": "An experimental painting exhibition that explores the methodology and ontology of painting within an intercultural context",
+      "cover": "https://letongchen.art/cdn/images/emerging_in_the_void_title.jpg",
       "author": "Letong Chen",
       "keywords": [
-        "art"
+        "art",
+        "intercultural",
+        "traditional painting",
+        "experimental art"
       ],
       "topic": "Art",
-      "date": "2025-12-31T04:33:56.361Z",
+      "date": "2026-05-09T07:37:23.082Z",
       "publish": true,
-      "link": "/gallery/artwork-one",
-      "file_name": "Artwork One.md"
-    },
-    {
-      "title": "Artwork Three",
-      "description": "HAHAHAHAHA",
-      "cover": "https://letongchen.art/cdn/images/art_3.jpg",
-      "author": "Pink",
-      "keywords": [
-        "art"
-      ],
-      "topic": "Art",
-      "date": "2025-12-31T04:33:56.361Z",
-      "publish": true,
-      "link": "/gallery/artwork-three",
-      "file_name": "Artwork Three.md"
+      "link": "/gallery/emerging-in-the-void",
+      "file_name": "太虚即气 EMERGING IN THE VOID.md"
     }
   ],
-  "total": 2,
+  "total": 1,
   "limit_per_page": 10
 }
