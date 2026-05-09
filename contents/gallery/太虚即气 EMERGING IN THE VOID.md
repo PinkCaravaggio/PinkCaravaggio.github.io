@@ -18,12 +18,13 @@ date: 2026-02-25
 In an era when the subject is constantly expressed yet increasingly distorted, can the self still exist in a non-narrative, non-figurative way, one that exceeds the body, identity, and classificatory frameworks?
 
 
-![***太虚即气* (EMERGING IN THE VOID) poster**](https://letongchen.art/cdn/images/emerging_in_the_void_poster.jpg)
+![](https://letongchen.art/cdn/images/emerging_in_the_void_poster.jpg)
 
+> ***太虚即气* (EMERGING IN THE VOID) poster**
 
 If identity narrative functions as a tool to restructure relations, responsibility, and power, then its ultimate success would entail its own disappearance. Once power relinquishes identity categories, such as gender, as technologies for managing bodies, those categories no longer require reconstruction or negotiation; they simply cease to exist. In this sense, identity is not an ontological given but a transitional political instrument whose persistence often signals the continued operation of the very power it seeks to dismantle. Then artistic practices that merely negotiate identities remain bound to its classificatory logic. My self-portrait series therefore returns to a `pre-narrative` condition, prior to the emergence of identity as a system of naming and classification. From an ontological perspective, the work does not seek recognition or representation, but stages the appearance of an existence that is irreducible to classification, description, yet impossible to ignore.
 
-In my work, I first place myself in front of a pure black background which is a model of “**the void**”. Zhang Zai (张载, a famous Chinese philosopher of Northern Song dynasty) pointed out that `“**the void is qi (太虚即气)**”`, that the void is not “emptiness,” but the most primal form of qi (气), a field of tension that compels emergence and manifestation. Qi is the ontological condition through which the world comes into being. It does not pre-set meaning, but it requires existence to respond in some way.
+In my work, I first place myself in front of a pure black background which is a model of “**the void**”. Zhang Zai (张载, a famous Chinese philosopher of Northern Song dynasty) pointed out that *“`the void is qi (太虚即气)`”*, that the void is not “emptiness,” but the most primal form of qi (气), a field of tension that compels emergence and manifestation. Qi is the ontological condition through which the world comes into being. It does not pre-set meaning, but it requires existence to respond in some way.
 
 
 ![](https://letongchen.art/cdn/images/emerging_in_the_void.jpg)
