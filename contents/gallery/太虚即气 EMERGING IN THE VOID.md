@@ -20,7 +20,7 @@ In an era when the subject is constantly expressed yet increasingly distorted, c
 
 ![](https://letongchen.art/cdn/images/emerging_in_the_void_poster.jpg)
 
-> ***太虚即气* (EMERGING IN THE VOID) poster**
+> ***太虚即气 (EMERGING IN THE VOID)*** poster
 
 If identity narrative functions as a tool to restructure relations, responsibility, and power, then its ultimate success would entail its own disappearance. Once power relinquishes identity categories, such as gender, as technologies for managing bodies, those categories no longer require reconstruction or negotiation; they simply cease to exist. In this sense, identity is not an ontological given but a transitional political instrument whose persistence often signals the continued operation of the very power it seeks to dismantle. Then artistic practices that merely negotiate identities remain bound to its classificatory logic. My self-portrait series therefore returns to a `pre-narrative` condition, prior to the emergence of identity as a system of naming and classification. From an ontological perspective, the work does not seek recognition or representation, but stages the appearance of an existence that is irreducible to classification, description, yet impossible to ignore.
 
@@ -29,6 +29,7 @@ In my work, I first place myself in front of a pure black background which is a 
 
 ![](https://letongchen.art/cdn/images/emerging_in_the_void.jpg)
 
+> ***太虚即气 (The Void Is Qi)***, acrylic, ink, oil pastel on canvas, 2026. Appropriation of Chen Rong (陈容,1235-1266).
 
 When I am the only presence (a physical form of qi) within this void, I occupy the sole position capable of bearing this generative qi. What traces (the images) are left behind, and what type of qi emerges from then, depends on how I respond to it, and how I exist at that moment. The emergence of qi is a phenomenological process. It is like a beam of light cast upon me, producing a shadow and a negative space on the wall. The shape of this negative space depends on my posture and the form of the shadow itself at that moment. However, the “light” and the “shadow” here are metaphysical. The “light” is the generative qi steamed from the void; My “posture” is my state of existence and the way I respond to the generative qi, it is shi (势). The “negative space” is the form of qi takes after passing through me; and the “shadow” is the container of this negative space, which is the image. It is the trace of the process through which qi and I grind against each other.
 
@@ -39,23 +40,32 @@ It is important to note that this state (shi) is relative rather than absolute. 
 
 ![](https://letongchen.art/cdn/images/emerging_in_the_void_view.jpg)
 
+> ***太虚即气 (EMERGING IN THE VOID)*** scene. The self-portrait series, 2025-2026.
 
 These “symbols” are non-narrative and non-symbolic (though interpretation is permitted, since it is also open to be interpreted through the lens of psychology). They are merely reactive and receptive carriers of qi. `They do not narrate “who I am”; they indicate “how I exist”.` The pink stripe marks the “position” of the minimum condition of my presence. It is a fissure through which qi is received. This position is not only mine, but also of viewers. It guides them to occupy the same position as me. As a result, the image is no longer an act of depiction, but an event, a phenomenon, an encounter with qi. This is similar to the figures seen from behind in Caspar David Friedrich’s ***Wanderer above the Sea of Fog***, or the figures described by 郭熙(Guo Xi) in ***早春图 (Early Spring)***. These figures are neither Friedrich nor Guo Xi, yet they mark the presence and position of Friedrich, Guo Xi, and viewers. The image thus ceases to be a depiction of landscape and becomes an event, an encounter with the qi and sublime, and an articulation of how that encounter takes place.
 
 ![](https://letongchen.art/cdn/images/eitv_1.jpg)
 
+> David Friedrich, ***Wanderer above the Sea of Fog***, 1818.
+
 ![](https://letongchen.art/cdn/images/eitv_2.png)
+
+> 郭熙(Guo Xi), ***早春图 (Early Spring)***, 1072.
 
 ![](https://letongchen.art/cdn/images/eitv_3.jpg)
 
+> 郭熙(Guo Xi), ***早春图 (Early Spring)*** detail, 1072.
 
 I cannot fully explain why the traces (images) I leave behind contain elements from the works of others. Perhaps the “I” exists in a relationally constructive state (Dasein). The appearance of limbs and faces already indicates that “I” exist outside the body; only then can the body appear as a “shadow” and “trance”. As described above, image is merely a trace left by an encounter, not the “I” itself. This de-corporealization and de-identification constitute my resistance to the highly fragmented, privatized, and alienated narratives of the contemporary world, and this resistance itself is non-narrative, non-violent, and does not sacrifice individualism. It is an ontological and phenomenological model.
 
 
 ![](https://letongchen.art/cdn/images/eitv_narcissuss.jpg)
 
+> ***Narcissus***, acrylic and oil pastel on canvas, 2026. Appropriation of Caravaggio (1571-1610).
+
 ![](https://letongchen.art/cdn/images/eitv_the_warrior.jpg)
 
+> ***The Warrior***, acrylic and oil pastel on canvas, 2025.
 
 Since I am not the subject within this viewing structure, and I do not possess the authority to guarantee my own emergence. The work is not a self-narration. Manifestation is an event, whether it occurs depends on whether a viewer is present. In this sense, the work also addresses social connection. Through the mechanism of emergence, it dissolves the centrality of narrative while preserves the artist's subjectivity and agency. Emergence is not decided by me, but by whether there is another who comes into co-presence and triggers it (again, Wang Yangming’s ‘Flowers-on-the-Cliff’ argument).
 
@@ -64,12 +74,14 @@ Likewise, I cannot detach myself from the external world (the traces, images, �
 
 ![](https://letongchen.art/cdn/images/eitv_martin_johnson_heade.jpg)
 
+> ***Giant Magnolias on a Blue velvet Cloth***, acrylic and oil pastel on canvas, 2025. Appropriation of Martin Johnson Heade (1819-1904).
 
 Using the complete images of others directly as my self-portraits is my most extreme experiment, because an encounter and presence does not necessarily require new images. The pink stripe marks my position, transforming the qi into an encountered qi, carried qi. Through my presence, the image is transformed into an event, and viewers and I share a moment of encounter within the same field of tension. When qi is stabilized within the image, the work becomes a field that anyone has the right to enter and encounter. It cannot be privately owned like light and air. It is therefore de-privatized and de-author-centered.
 
 
 ![](https://letongchen.art/cdn/images/eitv_lady_xiang.jpg)
 
+> (original artwork) Unknown Artist, Untitled, ink on silk, 1821?(now) Pink Chen, ***Untitled***, acrylic on painting on silk, 2026.
 
 In the context of traditional Chinese art, copying and replication are legitimate creative practices. When the image is no longer the ontological core of the work, and qi cannot be privately possessed, copying is no longer the reproduction of images but the digestion, continuation, and correspondence of qi. By using the images of others as sources of qi, I practice how humans function as mediators of qi, encountering one another in the society.
 
@@ -78,12 +90,14 @@ I do not return to traditional forms, but to the ontological conditions that pre
 
 ![](https://letongchen.art/cdn/images/eitv_moonlight_sonata.jpg)
 
+> ***不胜清怨 (Moonlight Sonata)***, acrylic, ink, oil pastel on canvas, 2026.
 
-**《妙趣横生册》 (the Album of Endless Delight)** is a practice of forcing the self into appearance through semi-controllable brushwork and ink. Through the continuous negotiation between rationality and “accidents”, it gradually manifests my presence. By extending the traditional Chinese artistic methodology into the contemporary moment, I am questioning the ontological assumption that contemporary art must exist through endless deconstruction and negation. Like a paradox, it criticizes all my experimental artworks above.
+***《妙趣横生册》 (the Album of Endless Delight)*** is a practice of forcing the self into appearance through semi-controllable brushwork and ink. Through the continuous negotiation between rationality and “accidents”, it gradually manifests my presence. By extending the traditional Chinese artistic methodology into the contemporary moment, I am questioning the ontological assumption that contemporary art must exist through endless deconstruction and negation. Like a paradox, it criticizes all my experimental artworks above.
 
 
 ![](https://letongchen.art/cdn/images/eitv_the_album_of_endless_delights.jpg)
 
+> ***《妙趣横生册》 (the Album of Endless Delight)***, ink on paper towel, 2026. Inspired by 徐渭 (Xu Wei, 1521-1593) and 八大山人 (Zhu Da, 1626-1705).
 
 The primary reason traditional Chinese ink painting struggles to become “contemporary” or “international” lies in the fact that it presupposes a strict mechanism of self-constitution. For example, “rootedness in brush and ink” directly conflicts with new-media experimentation. Western art evolves through iterative transformations of artistic ontology and regimes of viewing, whereas Chinese art first establishes its ultimate artistic ontology and then conducts formal and thematic exploration around that core. This is not to say that deviation from this mechanism is impossible; rather, once deviation occurs, the work no longer belongs to the discursive context of Chinese ink painting. 
 
@@ -94,6 +108,7 @@ Deeming deconstructability and negatability as universal conditions for artistic
 
 ![](https://letongchen.art/cdn/images/eitv_yumeiren.jpg)
 
+> ***《虞美人》(Yu Mei Ren)*** , a poem by 李煜 (Li Yu, 937-978), ink on paper towel, 2026.
 
 This collage-calligraphy work is composed exclusively of selected characters from my own writing, chosen from among multiple states of execution. Rather than presenting the self, the work exposes a condition in which the subject gains the ability to determine which states are allowed to appear and which are withheld. At this threshold, non-narrative expression becomes paradoxically narrative, not through language, symbolism, or storytelling, but through the act of selection itself. The work inhabits an unstable zone between narration and rupture, where meaning is neither fully constructed nor fully denied, and where visibility itself becomes the true site of tension.
 
@@ -104,3 +119,4 @@ Finally, my work serves as a self-justification of painting in the age of AI. Ge
 
 ![](https://letongchen.art/cdn/images/eitv_unmoored_boat.jpg)
 
+> ***不系之舟 (Unmoored Boat)***, acrylic, ink, oil pastel on canvas, 2025.
