@@ -1,36 +1,5 @@
 {
-  "items": [
-    {
-      "title": "Letong's Blog 12345",
-      "description": "https://letongchen.art/cdn/images/biden.jpg",
-      "cover": "https://wallpapers.com/images/featured/aesthetic-art-39mydncrinbm5fvq.jpg",
-      "author": "Letong Chen",
-      "keywords": [
-        "art",
-        "painting"
-      ],
-      "topic": "Art",
-      "date": "2026-05-09T08:38:19.632Z",
-      "publish": true,
-      "link": "/blog/letong's-blog-12345",
-      "file_name": "Letong's Blog 12345.md"
-    },
-    {
-      "title": "My Thoughts On Vincient",
-      "description": "Do you wanna learn something about Van Goph",
-      "cover": "https://letongchen.art/cdn/images/vincient.jpg",
-      "author": "Letong Chen",
-      "keywords": [
-        "art",
-        "painting"
-      ],
-      "topic": "Art",
-      "date": "2026-05-09T08:38:19.632Z",
-      "publish": true,
-      "link": "/blog/my-thoughts-on-vincient",
-      "file_name": "My Thoughts On Vincient.md"
-    }
-  ],
-  "total": 2,
+  "items": [],
+  "total": 0,
   "limit_per_page": 10
 }
