@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "title": "云山图卷 THE SCROLL OF CLOUD & MOUNTAIN",
+      "title": "云山图卷 SAMC GALLERY",
       "description": "Pink's third solo exhibition. Location: SAMC Gallery, Trinity Western University, Langley, BC, Canada. Time: March 16 - 23, 2026. Artist Talk & Opening Reception: 8:15 - 9:00 pm, March 19, 2026.",
-      "cover": "https://letongchen.art/cdn/images/eitv_scene.jpg",
+      "cover": "https://letongchen.art/cdn/images/ystj7.jpg",
       "author": "Letong Chen",
       "keywords": [
         "art",
@@ -12,10 +12,10 @@
         "contemporary painting"
       ],
       "topic": "Art",
-      "date": "2026-05-10T05:59:02.972Z",
+      "date": "2026-05-10T06:28:29.977Z",
       "publish": true,
-      "link": "/gallery/the-scroll-of-cloud-and-mountain",
-      "file_name": "云山图卷 THE SCROLL OF CLOUD & MOUNTAIN.md"
+      "link": "/gallery/samc-gallery",
+      "file_name": "云山图卷 SAMC GALLERY.md"
     },
     {
       "title": "太虚即气 EMERGING IN THE VOID",
@@ -29,7 +29,7 @@
         "contemporary painting"
       ],
       "topic": "Art",
-      "date": "2026-05-10T05:59:02.972Z",
+      "date": "2026-05-10T06:28:29.977Z",
       "publish": true,
       "link": "/gallery/emerging-in-the-void",
       "file_name": "太虚即气 EMERGING IN THE VOID.md"
@@ -47,7 +47,7 @@
         "installation"
       ],
       "topic": "Art",
-      "date": "2026-05-10T05:59:02.972Z",
+      "date": "2026-05-10T06:28:29.977Z",
       "publish": true,
       "link": "/gallery/jacobson-gallery",
       "file_name": "太虚即气 Jacobson Gallery.md"
