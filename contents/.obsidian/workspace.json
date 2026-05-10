@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "00147c814fbd70ba",
+        "id": "459913dd97f48436",
         "type": "tabs",
         "children": [
           {
-            "id": "50aa4a7a8061bc93",
+            "id": "e4fe6f7bbce3d2d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gallery/太虚即气 EMERGING IN THE VOID.md",
+                "file": "gallery/太虚即气 Jacobson Gallery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "太虚即气 EMERGING IN THE VOID"
+              "title": "太虚即气 Jacobson Gallery"
             }
           }
         ]
@@ -138,14 +138,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "50aa4a7a8061bc93",
+  "active": "e4fe6f7bbce3d2d8",
   "lastOpenFiles": [
-    "Ann.base",
+    "gallery/太虚即气 EMERGING IN THE VOID.md",
+    "gallery/太虚即气 Jacobson Gallery.md",
+    "gallery/太虚即气.md",
     "Gallery.base",
+    "gallery/Untitled.md",
+    "Ann.base",
     "Essay.base",
     "Blog.base",
-    "gallery/太虚即气 EMERGING IN THE VOID.md",
-    "Untitled.md",
     "blog/My Thoughts On Vincient.md",
     "blog/Letong's Blog 12345.md",
     "ann/太虚即气 EMERGING IN THE VOID.md",
