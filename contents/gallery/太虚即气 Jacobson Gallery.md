@@ -53,6 +53,8 @@ date: 2026-02-25
 
 ![](https://letongchen.art/cdn/images/eitv_scene_10.jpg)
 
+![](https://letongchen.art/cdn/images/eitv.jpg)
+
 ![](https://letongchen.art/cdn/images/eitv_rose.jpg)
 
 ![](https://letongchen.art/cdn/images/eitv_iris.jpg)
