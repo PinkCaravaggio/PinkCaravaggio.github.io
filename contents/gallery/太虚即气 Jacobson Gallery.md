@@ -12,10 +12,11 @@ keywords:
 topic: Art
 link: https://drive.google.com/file/d/1J1K3bBm5iX1DVAtQ9TRG_rrrF5Mo8vdh/view?usp=drive_link
 publish: true
-date: 2026-02-25
+date: 2026-03-19
 ---
 # Photo Documentation
 
+**The full video of the artist talk & opening reception:** https://drive.google.com/file/d/1J1K3bBm5iX1DVAtQ9TRG_rrrF5Mo8vdh/view?usp=drive_link
 
 ![](https://letongchen.art/cdn/images/eitv_scene_15.jpg)
 
