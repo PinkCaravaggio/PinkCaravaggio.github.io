@@ -1,6 +1,23 @@
 {
   "items": [
     {
+      "title": "云山图卷 THE SCROLL OF CLOUD & MOUNTAIN",
+      "description": "Pink's third solo exhibition. Location: SAMC Gallery, Trinity Western University, Langley, BC, Canada. Time: March 16 - 23, 2026. Artist Talk & Opening Reception: 8:15 - 9:00 pm, March 19, 2026.",
+      "cover": "https://letongchen.art/cdn/images/eitv_scene.jpg",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting"
+      ],
+      "topic": "Art",
+      "date": "2026-05-10T05:51:19.208Z",
+      "publish": true,
+      "link": "/gallery/the-scroll-of-cloud-and-mountain",
+      "file_name": "云山图卷 THE SCROLL OF CLOUD & MOUNTAIN.md"
+    },
+    {
       "title": "太虚即气 EMERGING IN THE VOID",
       "description": "A contemporary experimental painting exhibition that explores the methodology and ontology of painting within an intercultural context",
       "cover": "https://letongchen.art/cdn/images/emerging_in_the_void_title.jpg",
@@ -8,11 +25,11 @@
       "keywords": [
         "art",
         "intercultural",
-        "traditional painting",
-        "experimental art"
+        "experimental art",
+        "contemporary painting"
       ],
       "topic": "Art",
-      "date": "2026-05-10T01:37:14.835Z",
+      "date": "2026-05-10T05:51:19.208Z",
       "publish": true,
       "link": "/gallery/emerging-in-the-void",
       "file_name": "太虚即气 EMERGING IN THE VOID.md"
@@ -25,16 +42,17 @@
       "keywords": [
         "art",
         "intercultural",
-        "traditional painting",
-        "experimental art"
+        "experimental art",
+        "contemporary painting",
+        "installation"
       ],
       "topic": "Art",
-      "date": "2026-05-10T01:37:14.835Z",
+      "date": "2026-05-10T05:51:19.208Z",
       "publish": true,
       "link": "/gallery/jacobson-gallery",
       "file_name": "太虚即气 Jacobson Gallery.md"
     }
   ],
-  "total": 2,
+  "total": 3,
   "limit_per_page": 10
 }

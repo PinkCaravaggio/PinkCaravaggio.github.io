@@ -6,8 +6,8 @@ author: Letong Chen
 keywords:
   - art
   - intercultural
-  - traditional painting
   - experimental art
+  - contemporary painting
 topic: Art
 link:
 publish: true
