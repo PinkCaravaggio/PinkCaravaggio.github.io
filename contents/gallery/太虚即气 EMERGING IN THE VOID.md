@@ -18,7 +18,7 @@ date: 2026-02-25
 In an era when the subject is constantly expressed yet increasingly distorted, can the self still exist in a non-narrative, non-figurative way, one that exceeds the body, identity, and classificatory frameworks?
 
 
-![](https://letongchen.art/cdn/images/emerging_in_the_void_poster.jpg)
+![](https://letongchen.art/cdn/images/eitv_poster.jpg)
 
 > ***太虚即气 (EMERGING IN THE VOID)*** poster
 
@@ -27,7 +27,7 @@ If identity narrative functions as a tool to restructure relations, responsibili
 In my work, I first place myself in front of a pure black background which is a model of “**the void**”. Zhang Zai (张载, a famous Chinese philosopher of Northern Song dynasty) pointed out that *“`the void is qi (太虚即气)`”*, that the void is not “emptiness,” but the most primal form of qi (气), a field of tension that compels emergence and manifestation. Qi is the ontological condition through which the world comes into being. It does not pre-set meaning, but it requires existence to respond in some way.
 
 
-![](https://letongchen.art/cdn/images/emerging_in_the_void.jpg)
+![](https://letongchen.art/cdn/images/eitv.jpg)
 
 > ***太虚即气 (The Void Is Qi)***, acrylic, ink, oil pastel on canvas, 2026. Appropriation of Chen Rong (陈容,1235-1266).
 
@@ -38,7 +38,7 @@ When I am the only presence (a physical form of qi) within this void, I occupy t
 It is important to note that this state (shi) is relative rather than absolute. It depends on the relational difference between my shi and that of viewers. If I am a vehicle moving in one direction, and viewers are vehicles moving in various directions (sometimes aligned with me, sometimes opposing me), then they may perceive and enter my state in different ways, resulting in different descriptions. For this reason, the work establishes relationships rather than presenting something unilaterally, and for this reason I cannot present myself independently of viewers. My self-portrait series does not take “relation” as a method, a system, or a goal. It does not construct, stage, or enforce relationships; rather, it exposes relations as already-there, as modes of Dasein (Martin Heidegger) that are inescapable. Just as in Wang Yangming’s School of Mind, exemplified by the famous ‘Flowers-on-the-Cliff’ argument.
 
 
-![](https://letongchen.art/cdn/images/emerging_in_the_void_view.jpg)
+![](https://letongchen.art/cdn/images/eitv_scene.jpg)
 
 > ***太虚即气 (EMERGING IN THE VOID)*** scene. The self-portrait series, 2025-2026.
 
@@ -95,7 +95,7 @@ I do not return to traditional forms, but to the ontological conditions that pre
 ***《妙趣横生册》 (the Album of Endless Delight)*** is a practice of forcing the self into appearance through semi-controllable brushwork and ink. Through the continuous negotiation between rationality and “accidents”, it gradually manifests my presence. By extending the traditional Chinese artistic methodology into the contemporary moment, I am questioning the ontological assumption that contemporary art must exist through endless deconstruction and negation. Like a paradox, it criticizes all my experimental artworks above.
 
 
-![](https://letongchen.art/cdn/images/eitv_the_album_of_endless_delights.jpg)
+![](https://letongchen.art/cdn/images/eitv_the_album_of_endless_delight.jpg)
 
 > ***《妙趣横生册》 (the Album of Endless Delight)***, ink on paper towel, 2026. Inspired by 徐渭 (Xu Wei, 1521-1593) and 八大山人 (Zhu Da, 1626-1705).
 
