@@ -12,10 +12,28 @@
         "contemporary painting"
       ],
       "topic": "Art",
-      "date": "2026-05-10T06:28:29.977Z",
+      "date": "2026-05-10T06:55:21.333Z",
       "publish": true,
       "link": "/gallery/samc-gallery",
       "file_name": "云山图卷 SAMC GALLERY.md"
+    },
+    {
+      "title": "云山图卷 THE SCROLL OF CLOUD & MOUNTAIN",
+      "description": "This exhibition breaks the boundary between painting and installation through a contemporary fusion of both eastern and western visual theories and traditions, reintroducing the space as a field where the subject and viewers coexist with and reconstruct each other.",
+      "cover": "https://letongchen.art/cdn/images/ystj2.png",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting",
+        "installation"
+      ],
+      "topic": "Art",
+      "date": "2026-05-10T06:55:21.333Z",
+      "publish": true,
+      "link": "/gallery/the-scroll-of-cloud-and-mountain",
+      "file_name": "云山图卷 THE SCROLL OF CLOUD & MOUNTAIN.md"
     },
     {
       "title": "太虚即气 EMERGING IN THE VOID",
@@ -29,7 +47,7 @@
         "contemporary painting"
       ],
       "topic": "Art",
-      "date": "2026-05-10T06:28:29.977Z",
+      "date": "2026-05-10T06:55:21.333Z",
       "publish": true,
       "link": "/gallery/emerging-in-the-void",
       "file_name": "太虚即气 EMERGING IN THE VOID.md"
@@ -47,12 +65,12 @@
         "installation"
       ],
       "topic": "Art",
-      "date": "2026-05-10T06:28:29.977Z",
+      "date": "2026-05-10T06:55:21.333Z",
       "publish": true,
       "link": "/gallery/jacobson-gallery",
       "file_name": "太虚即气 Jacobson Gallery.md"
     }
   ],
-  "total": 3,
+  "total": 4,
   "limit_per_page": 10
 }
