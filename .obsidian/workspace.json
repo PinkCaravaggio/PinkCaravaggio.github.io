@@ -11,13 +11,14 @@
             "id": "e4fe6f7bbce3d2d8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Gallery.base",
-                "viewName": "Table"
+                "file": "gallery/云山图卷 THE SCROLL OF CLOUD & MOUNTAIN.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Gallery"
+              "icon": "lucide-file",
+              "title": "云山图卷 THE SCROLL OF CLOUD & MOUNTAIN"
             }
           }
         ]
@@ -139,19 +140,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "38350a9c8c52be89",
+  "active": "e4fe6f7bbce3d2d8",
   "lastOpenFiles": [
-    "Blog.base",
-    "Ann.base",
-    "gallery/云山图卷 THE SCROLL OF CLOUD & MOUNTAIN.md",
     "Gallery.base",
     "README.md",
+    "gallery/云山图卷 THE SCROLL OF CLOUD & MOUNTAIN.md",
     "gallery/云山图卷 SAMC GALLERY.md",
     "gallery/太虚即气 Jacobson Gallery.md",
     "gallery/太虚即气 EMERGING IN THE VOID.md",
     "gallery/太虚即气.md",
     "gallery/Untitled.md",
+    "Ann.base",
     "Essay.base",
+    "Blog.base",
     "blog/My Thoughts On Vincient.md",
     "blog/Letong's Blog 12345.md",
     "ann/太虚即气 EMERGING IN THE VOID.md",
