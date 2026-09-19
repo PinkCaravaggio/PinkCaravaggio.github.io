@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "gallery/云山图卷 THE SCROLL OF CLOUD & MOUNTAIN.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "云山图卷 THE SCROLL OF CLOUD & MOUNTAIN"
@@ -143,13 +143,13 @@
   "active": "2db40a033f246b15",
   "lastOpenFiles": [
     "gallery/云山图卷 SAMC GALLERY.md",
-    "gallery/太虚即气 EMERGING IN THE VOID.md",
     "Gallery.base",
+    "gallery/云山图卷 THE SCROLL OF CLOUD & MOUNTAIN.md",
+    "gallery/太虚即气 EMERGING IN THE VOID.md",
     "Exhibition.base",
     "exhibition/云山图卷 SAMC GALLERY.md",
     "Blog.base",
     "Ann.base",
-    "gallery/云山图卷 THE SCROLL OF CLOUD & MOUNTAIN.md",
     "README.md",
     "gallery/太虚即气 Jacobson Gallery.md",
     "gallery/太虚即气.md",

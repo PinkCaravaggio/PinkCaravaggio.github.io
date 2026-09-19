@@ -16,10 +16,10 @@ function loadToGrid(){
     galleryGrid.innerHTML = ""
     galleryCarouselItem.innerHTML = ""
     items.forEach(i => {
-        galleryGrid.innerHTML +=
-            i.link ?
-                `<div><a href="${i.link}">Show Statement</a><img src="${i.cover}" alt=""></div>` :
-                `<div><img src="${i.cover}" alt=""></div>`
+        galleryGrid.innerHTML += `<div><img src="${i.cover}" alt=""></div>`;
+            // i.link ?
+            //     `<div><a href="${i.link}">Show Statement</a><img src="${i.cover}" alt=""></div>` :
+            //     `<div><img src="${i.cover}" alt=""></div>`
     })
     galleryGrid.style.display = "block";
     galleryCarousel.style.display = "none";
