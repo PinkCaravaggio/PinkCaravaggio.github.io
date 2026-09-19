@@ -9,10 +9,11 @@ const help = `
 ${chalk.bold.blue('Usage:')} publish [content-type] [option]
 
 ${chalk.bold('content-type:')}
-  ${chalk.cyan('-ann')}      publish anncoucement content
-  ${chalk.cyan('-gallery')}  publish gallery content
-  ${chalk.cyan('-blog')}     publish blog content
-  ${chalk.cyan('-essay')}    publish essay content
+  ${chalk.cyan('-ann')}         publish anncoucement content
+  ${chalk.cyan('-gallery')}     publish gallery content
+  ${chalk.cyan('-exhibition')}  publish exhibition content
+  ${chalk.cyan('-blog')}        publish blog content
+  ${chalk.cyan('-essay')}       publish essay content
   
 ${chalk.bold('option:')}
   ${chalk.cyan('-all')}        publish all items of the type
@@ -30,6 +31,7 @@ if (args[0] === '-help' || args[0] === '-h') {
 const type_map = {
     '-ann': content_type.ann,
     '-gallery': content_type.gallery,
+    '-exhibition': content_type.exhibition,
     '-blog': content_type.blog,
     '-essay': content_type.essay,
 };

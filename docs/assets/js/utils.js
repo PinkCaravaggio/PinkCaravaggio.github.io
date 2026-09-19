@@ -2,12 +2,14 @@ const entries = {
     published:{
         ann: "assets/site/ann.json",
         gallery: "assets/site/gallery.json",
+        exhibition: "assets/site/exhibition.json",
         blog: "assets/site/blog.json",
         essay: "assets/site/essay.json",
     },
     default: {
         ann: "assets/site/default/_default_ann.json",
         gallery: "assets/site/default/_default_gallery.json",
+        exhibition: "assets/site/default/_default_exhibition.json",
         blog: "assets/site/default/_default_blog.json",
         essay: "assets/site/default/_default_essay.json"
     }

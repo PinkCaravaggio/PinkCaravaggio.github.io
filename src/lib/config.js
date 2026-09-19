@@ -16,6 +16,13 @@ const content_type = {
         site_info_file: path.join(root, "docs", "assets", "site", "gallery.json"),
         allow_publish: true,
     },
+    exhibition:{
+        name: 'exhibition',
+        content_folder: path.join(root, "contents", "exhibition"),
+        publish_folder: path.join(root, "docs", "exhibition"),
+        site_info_file: path.join(root, "docs", "assets", "site", "exhibition.json"),
+        allow_publish: true,
+    },
     blog: {
         name: 'blog',
         content_folder: path.join(root, "contents", "blog"),
@@ -34,7 +41,7 @@ const content_type = {
 
 const publish_template_file = path.join(root, "src", "templates", "_default.ejs")
 
-const publish_list = ["blog", "essay", "gallery"];
+const publish_list = ["blog", "essay", "gallery", "exhibition"];
 
 const page_limit = 10;
 
