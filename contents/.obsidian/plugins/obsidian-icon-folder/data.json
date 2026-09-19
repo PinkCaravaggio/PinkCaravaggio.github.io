@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏠",
       "❗",
       "🔶",
       "👨‍🎨",
-      "📰",
-      "✍"
+      "📰"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "blog": "✍",
   "essay": "📰",
   "gallery": "👨‍🎨",
-  "README.md": "❗"
+  "README.md": "❗",
+  "exhibition": "🏠"
 }

@@ -10,7 +10,7 @@ keywords:
   - contemporary painting
   - installation
 topic: Art
-link: https://drive.google.com/file/d/1BZL-hoUnDL_m8OzseBJJAMTmaj6AXiAV/view?usp=drive_link
+link:
 publish: true
 date: 2026-03-19
 ---

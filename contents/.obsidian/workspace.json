@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "459913dd97f48436",
+        "id": "605e5285e1d288ea",
         "type": "tabs",
         "children": [
           {
-            "id": "e4fe6f7bbce3d2d8",
+            "id": "2db40a033f246b15",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Gallery.base",
-                "viewName": "Table"
+                "file": "gallery/云山图卷 THE SCROLL OF CLOUD & MOUNTAIN.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-layout-grid",
-              "title": "Gallery"
+              "icon": "lucide-file",
+              "title": "云山图卷 THE SCROLL OF CLOUD & MOUNTAIN"
             }
           }
         ]
@@ -139,16 +140,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "38350a9c8c52be89",
+  "active": "2db40a033f246b15",
   "lastOpenFiles": [
+    "gallery/云山图卷 SAMC GALLERY.md",
+    "gallery/太虚即气 EMERGING IN THE VOID.md",
+    "Gallery.base",
+    "Exhibition.base",
+    "exhibition/云山图卷 SAMC GALLERY.md",
     "Blog.base",
     "Ann.base",
     "gallery/云山图卷 THE SCROLL OF CLOUD & MOUNTAIN.md",
-    "Gallery.base",
     "README.md",
-    "gallery/云山图卷 SAMC GALLERY.md",
     "gallery/太虚即气 Jacobson Gallery.md",
-    "gallery/太虚即气 EMERGING IN THE VOID.md",
     "gallery/太虚即气.md",
     "gallery/Untitled.md",
     "Essay.base",
