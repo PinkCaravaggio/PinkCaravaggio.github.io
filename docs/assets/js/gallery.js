@@ -31,10 +31,10 @@ function loadToCarousel(){
     galleryGrid.innerHTML = ""
     galleryCarouselItem.innerHTML = ""
     items.forEach(i => {
-        galleryCarouselItem.innerHTML +=
-            i.link ?
-                `<div class="card"><a href="${i.link}">Show Statement</a><img src="${i.cover}" alt=""></div>` :
-                `<div class="card"><img src="${i.cover}" alt=""></div>`
+        galleryCarouselItem.innerHTML += `<div class="card"><img src="${i.cover}" alt=""></div>`;
+            // i.link ?
+            //     `<div class="card"><a href="${i.link}">Show Statement</a><img src="${i.cover}" alt=""></div>` :
+            //     `<div class="card"><img src="${i.cover}" alt=""></div>`
     })
     carouselStart()
     galleryGrid.style.display = "none";

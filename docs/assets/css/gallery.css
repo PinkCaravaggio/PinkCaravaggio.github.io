@@ -72,11 +72,11 @@ div.gallery-grid img{
     transition: 0.2s all ease-in-out;
 }
 div.gallery-grid div:hover img {
-    filter: brightness(0.6);
-    transform: scale(1.02);
+    /* filter: brightness(0.6); */
+    transform: scale(1.03);
 }
 div.card:hover img{
-    filter: brightness(0.6);
+    /* filter: brightness(0.6); */
 }
 div.gallery-grid div:hover a {
     display: block;
