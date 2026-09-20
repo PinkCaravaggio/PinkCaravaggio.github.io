@@ -54,37 +54,8 @@ date: 2026-03-19
 
 ![](https://letongchen.art/cdn/images/eitv_scene_10.jpg)
 
-![](https://letongchen.art/cdn/images/eitv.jpg)
 
-![](https://letongchen.art/cdn/images/eitv_rose.jpg)
 
-![](https://letongchen.art/cdn/images/eitv_iris.jpg)
-
-![](https://letongchen.art/cdn/images/eitv_armor.jpg)
-
-![](https://letongchen.art/cdn/images/eitv_camellia.jpg)
-
-![](https://letongchen.art/cdn/images/eitv_the_warrior.jpg)
-
-![](https://letongchen.art/cdn/images/eitv_tulip.jpg)
-
-![](https://letongchen.art/cdn/images/eitv_narcissus.jpg)
-
-![](https://letongchen.art/cdn/images/eitv_martin_johnson_heade.jpg)
-
-![](https://letongchen.art/cdn/images/eitv_cat.jpg)
-
-![](https://letongchen.art/cdn/images/eitv_lady_xiang.jpg)
-
-![](https://letongchen.art/cdn/images/eitv_moonlight_sonata.jpg)
-
-![](https://letongchen.art/cdn/images/eitv_unmoored_boat.jpg)
-
-![](https://letongchen.art/cdn/images/eitv_the_album_of_endless_delight.jpg)
-
-![](https://letongchen.art/cdn/images/eitv_crabs.jpg)
-
-![](https://letongchen.art/cdn/images/eitv_yumeiren.jpg)
 
 
 
