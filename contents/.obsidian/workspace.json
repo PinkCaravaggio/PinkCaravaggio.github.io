@@ -11,14 +11,13 @@
             "id": "2ca60dc2061bbb4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "gallery/6.md",
-                "mode": "source",
-                "source": false
+                "file": "Gallery.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "6"
+              "icon": "lucide-layout-grid",
+              "title": "Gallery"
             }
           }
         ]
@@ -40,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -142,28 +141,38 @@
   },
   "active": "2ca60dc2061bbb4c",
   "lastOpenFiles": [
-    "gallery/7.md",
-    "gallery/8.md",
+    "gallery/16.md",
+    "gallery/11.md",
     "Gallery.base",
-    "gallery/LADY'S GLOVES.md",
-    "gallery/TRAPPED.md",
-    "gallery/ARTIST IN BERLIN 1.md",
-    "gallery/5.md",
-    "gallery/4.md",
-    "gallery/3.md",
-    "gallery/2.md",
-    "gallery/LET THERE BE LIGHT.md",
-    "gallery/1.md",
-    "gallery/SKELETON.md",
-    "gallery/6.md",
+    "gallery/12.md",
+    "gallery/13.md",
+    "gallery/14.md",
+    "gallery/15.md",
+    "gallery/17.md",
+    "gallery/18.md",
+    "gallery/19.md",
+    "gallery/20.md",
+    "gallery/21.md",
+    "gallery/22.md",
+    "gallery/23.md",
+    "gallery/24.md",
+    "gallery/25.md",
+    "gallery/49.2.md",
+    "gallery/49.1.md",
+    "gallery/39.1.md",
+    "gallery/39.2.md",
+    "gallery/39.3.md",
+    "gallery/38.md",
+    "gallery/26.md",
+    "gallery/27.md",
+    "gallery/28.md",
+    "gallery/29.md",
+    "gallery/30.md",
+    "Untitled",
     "Exhibition.base",
     "Ann.base",
-    "exhibition/太虚即气 EMERGING IN THE VOID.md",
-    "exhibition/云山图卷 THE SCROLL OF CLOUD & MOUNTAIN.md",
-    "exhibition/太虚即气 Jacobson Gallery.md",
     "Pasted image 20260919153503.png",
     "Pasted image 20260919171218.png",
-    "exhibition/云山图卷 SAMC GALLERY.md",
     "Pasted image 20260919154025.png",
     "Pasted image 20260919153900.png",
     "Pasted image 20260919153758.png",
@@ -171,16 +180,8 @@
     "Pasted image 20260919153643.png",
     "Pasted image 20260919153619.png",
     "Pasted image 20260919153526.png",
-    "ann/太虚即气 EMERGING IN THE VOID.md",
-    "gallery/太虚即气 EMERGING IN THE VOID.md",
     "Blog.base",
-    "README.md",
-    "gallery/太虚即气 Jacobson Gallery.md",
-    "gallery/太虚即气.md",
-    "gallery/Untitled.md",
     "Essay.base",
-    "blog/My Thoughts On Vincient.md",
-    "blog/Letong's Blog 12345.md",
     "Blog 1 1 1.base"
   ]
 }
