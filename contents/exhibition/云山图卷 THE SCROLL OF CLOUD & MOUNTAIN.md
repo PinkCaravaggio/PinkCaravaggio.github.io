@@ -46,16 +46,26 @@ The fog comes from beneath the big wooden box at the center of the space. As an 
 
 Rather than simply appropriating traditional imagery, the Scroll of Cloud & Mountain uses Chinese painting theory as a methodological foundation to rethink the boundaries of painting. By transforming landscape into a spatial and temporal situation, the work explores broader artistic questions shared across cultures: existence, time, space, embodiment, interaction, and the autonomy of viewers.
 
-![[Pasted image 20260919153503.png]]
+![](https://letongchen.art/cdn/images/ystj7.jpg)
 
-![[Pasted image 20260919153526.png]]
+![](https://letongchen.art/cdn/images/ystj9.jpg)
 
-![[Pasted image 20260919153619.png]]
+![](https://letongchen.art/cdn/images/ystj10.jpg)
 
-![[Pasted image 20260919153706.png]]
+![](https://letongchen.art/cdn/images/ystj12.jpg)
 
-![[Pasted image 20260919153758.png]]
+![](https://letongchen.art/cdn/images/ystj14.jpg)
 
-![[Pasted image 20260919153900.png]]
+![](https://letongchen.art/cdn/images/ystj15.jpg)
 
-![[Pasted image 20260919154025.png]]
+![](https://letongchen.art/cdn/images/ystj16.jpg)
+
+![](https://letongchen.art/cdn/images/ystj21.jpg)
+
+![](https://letongchen.art/cdn/images/ystj22.jpg)
+
+![](https://letongchen.art/cdn/images/ystj23.jpg)
+
+![](https://letongchen.art/cdn/images/ystj25.jpg)
+
+![](https://letongchen.art/cdn/images/ystj26.jpg)
