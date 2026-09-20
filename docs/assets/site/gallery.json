@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "title": "CONCERT",
+      "title": "1",
       "description": "Letong is demonstrating his art",
-      "cover": "https://letongchen.art/cdn/images/8.jpg",
+      "cover": "https://letongchen.art/cdn/images/1.jpg",
       "author": "Letong Chen",
       "keywords": [
         "art",
@@ -12,30 +12,13 @@
         "contemporary painting"
       ],
       "topic": "Art",
-      "date": "2026-09-20T04:12:21.024Z",
+      "date": "2026-09-20T04:27:17.620Z",
       "publish": true,
-      "link": "/gallery/concert",
-      "file_name": "CONCERT.md"
+      "link": "/gallery/1",
+      "file_name": "1.md"
     },
     {
-      "title": "GOLDFISH",
-      "description": "Letong is demonstrating his art",
-      "cover": "https://letongchen.art/cdn/images/9.jpg",
-      "author": "Letong Chen",
-      "keywords": [
-        "art",
-        "intercultural",
-        "experimental art",
-        "contemporary painting"
-      ],
-      "topic": "Art",
-      "date": "2026-09-20T04:12:21.024Z",
-      "publish": true,
-      "link": "/gallery/goldfish",
-      "file_name": "GOLDFISH.md"
-    },
-    {
-      "title": "LIVE AND LET DIE",
+      "title": "2",
       "description": "Letong is demonstrating his art",
       "cover": "https://letongchen.art/cdn/images/3.jpg",
       "author": "Letong Chen",
@@ -46,13 +29,13 @@
         "contemporary painting"
       ],
       "topic": "Art",
-      "date": "2026-09-20T04:12:21.024Z",
+      "date": "2026-09-20T04:27:17.620Z",
       "publish": true,
-      "link": "/gallery/live-and-let-die",
-      "file_name": "LIVE AND LET DIE.md"
+      "link": "/gallery/2",
+      "file_name": "2.md"
     },
     {
-      "title": "NOTHING BUT BANANAS",
+      "title": "3",
       "description": "Letong is demonstrating his art",
       "cover": "https://letongchen.art/cdn/images/2.jpg",
       "author": "Letong Chen",
@@ -64,13 +47,13 @@
         "installation"
       ],
       "topic": "Art",
-      "date": "2026-09-20T04:12:21.024Z",
+      "date": "2026-09-20T04:27:17.620Z",
       "publish": true,
-      "link": "/gallery/nothing-but-bananas",
-      "file_name": "NOTHING BUT BANANAS.md"
+      "link": "/gallery/3",
+      "file_name": "3.md"
     },
     {
-      "title": "SHINE ON YOU CRAZY DIMOND",
+      "title": "4",
       "description": "Letong is demonstrating his art",
       "cover": "https://letongchen.art/cdn/images/4.jpg",
       "author": "Letong Chen",
@@ -81,15 +64,15 @@
         "contemporary painting"
       ],
       "topic": "Art",
-      "date": "2026-09-20T04:12:21.024Z",
+      "date": "2026-09-20T04:27:17.620Z",
       "publish": true,
-      "link": "/gallery/shine-on-you-crazy-dimond",
-      "file_name": "SHINE ON YOU CRAZY DIMOND.md"
+      "link": "/gallery/4",
+      "file_name": "4.md"
     },
     {
-      "title": "T.A.G.E.",
+      "title": "5",
       "description": "Letong is demonstrating his art",
-      "cover": "https://letongchen.art/cdn/images/1.jpg",
+      "cover": "https://letongchen.art/cdn/images/9.jpg",
       "author": "Letong Chen",
       "keywords": [
         "art",
@@ -98,12 +81,148 @@
         "contemporary painting"
       ],
       "topic": "Art",
-      "date": "2026-09-20T04:12:21.024Z",
+      "date": "2026-09-20T04:27:17.620Z",
       "publish": true,
-      "link": "/gallery/t.a.g.e.",
-      "file_name": "T.A.G.E..md"
+      "link": "/gallery/5",
+      "file_name": "5.md"
+    },
+    {
+      "title": "6",
+      "description": "Letong is demonstrating his art",
+      "cover": "https://letongchen.art/cdn/images/8.jpg",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting"
+      ],
+      "topic": "Art",
+      "date": "2026-09-20T04:27:17.620Z",
+      "publish": true,
+      "link": "/gallery/6",
+      "file_name": "6.md"
+    },
+    {
+      "title": "7",
+      "description": "Letong is demonstrating his art",
+      "cover": "https://letongchen.art/cdn/images/13.jpg",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting"
+      ],
+      "topic": "Art",
+      "date": "2026-09-20T04:27:17.620Z",
+      "publish": true,
+      "link": "/gallery/7",
+      "file_name": "7.md"
+    },
+    {
+      "title": "8",
+      "description": "Letong is demonstrating his art",
+      "cover": "https://letongchen.art/cdn/images/14.jpg",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting"
+      ],
+      "topic": "Art",
+      "date": "2026-09-20T04:27:17.620Z",
+      "publish": true,
+      "link": "/gallery/8",
+      "file_name": "8.md"
+    },
+    {
+      "title": "7",
+      "description": "Letong is demonstrating his art",
+      "cover": "https://letongchen.art/cdn/images/13.jpg",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting"
+      ],
+      "topic": "Art",
+      "date": "2026-09-20T04:27:17.620Z",
+      "publish": true,
+      "link": "/gallery/artist-in-berlin-1",
+      "file_name": "ARTIST IN BERLIN 1.md"
+    },
+    {
+      "title": "LADY'S GLOVES",
+      "description": "Letong is demonstrating his art",
+      "cover": "https://letongchen.art/cdn/images/15.jpg",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting"
+      ],
+      "topic": "Art",
+      "date": "2026-09-20T04:27:17.620Z",
+      "publish": true,
+      "link": "/gallery/lady's-gloves",
+      "file_name": "LADY'S GLOVES.md"
+    },
+    {
+      "title": "LET THERE BE LIGHT",
+      "description": "Letong is demonstrating his art",
+      "cover": "https://letongchen.art/cdn/images/17.jpg",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting"
+      ],
+      "topic": "Art",
+      "date": "2026-09-20T04:27:17.620Z",
+      "publish": true,
+      "link": "/gallery/let-there-be-light",
+      "file_name": "LET THERE BE LIGHT.md"
+    },
+    {
+      "title": "SKELETON",
+      "description": "Letong is demonstrating his art",
+      "cover": "https://letongchen.art/cdn/images/12.jpg",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting"
+      ],
+      "topic": "Art",
+      "date": "2026-09-20T04:27:17.620Z",
+      "publish": true,
+      "link": "/gallery/skeleton",
+      "file_name": "SKELETON.md"
+    },
+    {
+      "title": "TRAPPED",
+      "description": "Letong is demonstrating his art",
+      "cover": "https://letongchen.art/cdn/images/16.jpg",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting"
+      ],
+      "topic": "Art",
+      "date": "2026-09-20T04:27:17.620Z",
+      "publish": true,
+      "link": "/gallery/trapped",
+      "file_name": "TRAPPED.md"
     }
   ],
-  "total": 6,
+  "total": 13,
   "limit_per_page": 10
 }

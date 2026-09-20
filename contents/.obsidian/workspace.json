@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gallery/CONCERT.md",
+                "file": "gallery/6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CONCERT"
+              "title": "6"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -142,15 +142,22 @@
   },
   "active": "2ca60dc2061bbb4c",
   "lastOpenFiles": [
+    "gallery/7.md",
+    "gallery/8.md",
     "Gallery.base",
-    "gallery/GOLDFISH.md",
-    "gallery/CONCERT.md",
-    "gallery/LIVE AND LET DIE.md",
-    "gallery/SHINE ON YOU CRAZY DIMOND.md",
+    "gallery/LADY'S GLOVES.md",
+    "gallery/TRAPPED.md",
+    "gallery/ARTIST IN BERLIN 1.md",
+    "gallery/5.md",
+    "gallery/4.md",
+    "gallery/3.md",
+    "gallery/2.md",
+    "gallery/LET THERE BE LIGHT.md",
+    "gallery/1.md",
+    "gallery/SKELETON.md",
+    "gallery/6.md",
     "Exhibition.base",
     "Ann.base",
-    "gallery/NOTHING BUT BANANAS.md",
-    "gallery/T.A.G.E..md",
     "exhibition/太虚即气 EMERGING IN THE VOID.md",
     "exhibition/云山图卷 THE SCROLL OF CLOUD & MOUNTAIN.md",
     "exhibition/太虚即气 Jacobson Gallery.md",
@@ -174,13 +181,6 @@
     "Essay.base",
     "blog/My Thoughts On Vincient.md",
     "blog/Letong's Blog 12345.md",
-    "gallery/Artwork Two.md",
-    "gallery/Artwork Three.md",
-    "ann/This is a Test.md",
-    "templates/Template.md",
-    "ann/This is another announcement.md",
-    "Blog 1 1 1.base",
-    "blog/Convert an Image into Colourful Ascii Art.md",
-    "gallery/Alcyonite.md"
+    "Blog 1 1 1.base"
   ]
 }
