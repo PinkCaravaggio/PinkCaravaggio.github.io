@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gallery/T.A.G.E..md",
+                "file": "gallery/CONCERT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T.A.G.E."
+              "title": "CONCERT"
             }
           }
         ]
@@ -142,6 +142,13 @@
   },
   "active": "2ca60dc2061bbb4c",
   "lastOpenFiles": [
+    "Gallery.base",
+    "gallery/GOLDFISH.md",
+    "gallery/CONCERT.md",
+    "gallery/LIVE AND LET DIE.md",
+    "gallery/SHINE ON YOU CRAZY DIMOND.md",
+    "Exhibition.base",
+    "Ann.base",
     "gallery/NOTHING BUT BANANAS.md",
     "gallery/T.A.G.E..md",
     "exhibition/太虚即气 EMERGING IN THE VOID.md",
@@ -158,11 +165,8 @@
     "Pasted image 20260919153619.png",
     "Pasted image 20260919153526.png",
     "ann/太虚即气 EMERGING IN THE VOID.md",
-    "Gallery.base",
     "gallery/太虚即气 EMERGING IN THE VOID.md",
-    "Exhibition.base",
     "Blog.base",
-    "Ann.base",
     "README.md",
     "gallery/太虚即气 Jacobson Gallery.md",
     "gallery/太虚即气.md",
@@ -177,8 +181,6 @@
     "ann/This is another announcement.md",
     "Blog 1 1 1.base",
     "blog/Convert an Image into Colourful Ascii Art.md",
-    "gallery/Alcyonite.md",
-    "essay/Convert an Image into Colourful Ascii Art.md",
-    "ann/Bioinformatics.md"
+    "gallery/Alcyonite.md"
   ]
 }

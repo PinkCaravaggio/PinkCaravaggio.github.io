@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "title": "CONCERT",
+      "description": "Letong is demonstrating his art",
+      "cover": "https://letongchen.art/cdn/images/8.jpg",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting"
+      ],
+      "topic": "Art",
+      "date": "2026-09-20T04:12:21.024Z",
+      "publish": true,
+      "link": "/gallery/concert",
+      "file_name": "CONCERT.md"
+    },
+    {
+      "title": "GOLDFISH",
+      "description": "Letong is demonstrating his art",
+      "cover": "https://letongchen.art/cdn/images/9.jpg",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting"
+      ],
+      "topic": "Art",
+      "date": "2026-09-20T04:12:21.024Z",
+      "publish": true,
+      "link": "/gallery/goldfish",
+      "file_name": "GOLDFISH.md"
+    },
+    {
+      "title": "LIVE AND LET DIE",
+      "description": "Letong is demonstrating his art",
+      "cover": "https://letongchen.art/cdn/images/3.jpg",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting"
+      ],
+      "topic": "Art",
+      "date": "2026-09-20T04:12:21.024Z",
+      "publish": true,
+      "link": "/gallery/live-and-let-die",
+      "file_name": "LIVE AND LET DIE.md"
+    },
+    {
       "title": "NOTHING BUT BANANAS",
       "description": "Letong is demonstrating his art",
       "cover": "https://letongchen.art/cdn/images/2.jpg",
@@ -13,10 +64,27 @@
         "installation"
       ],
       "topic": "Art",
-      "date": "2026-09-20T04:02:08.495Z",
+      "date": "2026-09-20T04:12:21.024Z",
       "publish": true,
       "link": "/gallery/nothing-but-bananas",
       "file_name": "NOTHING BUT BANANAS.md"
+    },
+    {
+      "title": "SHINE ON YOU CRAZY DIMOND",
+      "description": "Letong is demonstrating his art",
+      "cover": "https://letongchen.art/cdn/images/4.jpg",
+      "author": "Letong Chen",
+      "keywords": [
+        "art",
+        "intercultural",
+        "experimental art",
+        "contemporary painting"
+      ],
+      "topic": "Art",
+      "date": "2026-09-20T04:12:21.024Z",
+      "publish": true,
+      "link": "/gallery/shine-on-you-crazy-dimond",
+      "file_name": "SHINE ON YOU CRAZY DIMOND.md"
     },
     {
       "title": "T.A.G.E.",
@@ -30,12 +98,12 @@
         "contemporary painting"
       ],
       "topic": "Art",
-      "date": "2026-09-20T04:02:08.495Z",
+      "date": "2026-09-20T04:12:21.024Z",
       "publish": true,
       "link": "/gallery/t.a.g.e.",
       "file_name": "T.A.G.E..md"
     }
   ],
-  "total": 2,
+  "total": 6,
   "limit_per_page": 10
 }
