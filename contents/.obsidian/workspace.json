@@ -11,13 +11,14 @@
             "id": "2ca60dc2061bbb4c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Gallery.base",
-                "viewName": "Table"
+                "file": "exhibition/太虚即气 EMERGING IN THE VOID.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Gallery"
+              "icon": "lucide-file",
+              "title": "太虚即气 EMERGING IN THE VOID"
             }
           }
         ]
@@ -139,7 +140,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "38350a9c8c52be89",
+  "active": "2ca60dc2061bbb4c",
   "lastOpenFiles": [
     "Gallery.base",
     "gallery/16.md",
